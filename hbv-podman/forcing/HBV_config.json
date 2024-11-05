@@ -1,0 +1,7 @@
+{
+    "precipitation_file": "camelsgb_73010_1997-08-01_2000-08-31_pr.nc",
+    "potential_evaporation_file": "camelsgb_73010_1997-08-01_2000-08-31_evspsblpot.nc",
+    "mean_temperature_file": "camelsgb_73010_1997-08-01_2000-08-31_tas.nc",
+    "parameters": "4.0,0.6,420.0,2.25,0.1505,5.5,0.055,0.00505,3.05",
+    "initial_storage": "0,100,0,5,0"
+}
